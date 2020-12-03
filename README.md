@@ -1,1 +1,0 @@
-# BidCardCoinWPF_B2
