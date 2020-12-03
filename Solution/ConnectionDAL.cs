@@ -16,7 +16,7 @@ namespace Solution
             if (connection == null) //  si la connexion est déjà ouverte, il ne la refera pas 
             {
                 server = "localhost";
-                database = "testvisualstudiob2";
+                database = "bidcardcoin";
                 uid = "bidcardcoin";
                 password = "bidcardcoin";
                 string connectionString;
